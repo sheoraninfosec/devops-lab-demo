@@ -2,7 +2,7 @@
 # Author: Jigesh Sheoran
 
 def addition(a, b):
-    return a + b - 1
+    return a + b 
 
 def subtraction(a, b):
     return a - b
